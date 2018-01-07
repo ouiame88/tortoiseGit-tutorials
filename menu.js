@@ -1,3 +1,3 @@
 //menu.js 
 
-var menuOptions = ['Home', 'Contact Us', 'Abot'];
+var menuOptions = ['Home', 'Contact Us', 'About'];
