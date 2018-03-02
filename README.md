@@ -1,1 +1,1 @@
-About our website Learn4tarakki
+About our website
